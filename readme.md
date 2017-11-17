@@ -1,0 +1,1 @@
+will work on and with es6 at a later date. this is mostly es5
